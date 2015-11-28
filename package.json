@@ -1,0 +1,30 @@
+{
+  "name": "lsdf",
+  "version": "1.0.0",
+  "description": "Command line tool to list files in a directory",
+  "main": "lsdf.js",
+  "bin": {
+    "lsdf": "lsdf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oguching/lsdf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oguching/lsdf/issues"
+  },
+  "homepage": "https://github.com/oguching/lsdf.git",
+  "keywords": [
+    "cli",
+    "ls",
+    "commandline"
+  ],
+  "author": "Oguchi Nzekwe <nzekwe@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
